@@ -1,0 +1,40 @@
+package com.krakedev;
+
+public class TestPlato {
+
+	public static void main(String[] args) {
+		//Crear 3 variables de tipo Plato, llamadas platoA, platoB, platoC
+		//● Instanciar 3 objetos y referenciar cada uno con una de las variables del paso anterior
+		//● Modificar los atributos de cada plato con ejemplos reales de un restaurante
+		//● Mostrar en pantalla los valores de los atributos de los 3 objetos
+		
+		Plato platoA;
+		Plato platoB;
+		Plato platoC;
+		
+		platoA = new Plato();
+		platoB = new Plato();
+		platoC = new Plato();
+		
+		platoA.nombre = "Ensalada César";
+		platoA.tipo = "Entrada";
+		platoA.precio = 5.99;
+		platoA.disponible = true;
+		
+		platoB.nombre = "Pollo a la parrilla";
+		platoB.tipo = "Plato fuerte";
+		platoB.precio = 12.99;
+		platoB.disponible = true;
+		
+		platoC.nombre = "Tarta de chocolate";
+		platoC.tipo = "Postre";
+		platoC.precio = 6.49;
+		platoC.disponible = false;
+		
+		// Mostrar en pantalla los valores de los atributos de los 3 objetos
+		System.out.println("Plato A: " + platoA.nombre + ", " + platoA.tipo + ", " + platoA.precio + ", " + platoA.disponible);
+		System.out.println("Plato B: " + platoB.nombre + ", " + platoB.tipo + ", " + platoB.precio + ", " + platoB.disponible);
+		System.out.println("Plato C: " + platoC.nombre + ", " + platoC.tipo + ", " + platoC.precio + ", " + platoC.disponible);
+	}
+
+}

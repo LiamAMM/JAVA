@@ -553,3 +553,4 @@
 {"logTime": "1106/014914", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
 {"logTime": "1106/014931", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
 {"logTime": "1106/014941", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1106/020159", "level": "INFO", "message": "Preference changed: name=language_model_counters, new_value=[object], source=unknown"}

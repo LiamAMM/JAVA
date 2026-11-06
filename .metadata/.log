@@ -4494,3 +4494,960 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:52:07.983
 !MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:54:58.906
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request ce04af8e-a5e5-4fe5-bb4c-efa12d3b06b8 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 904.3933999999426ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:01.033
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:01.776
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:01.782
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [389ec999-82ec-4104-9e37-5099ce6cead9] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:03.004
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:06.909
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 54c19de6-1ba2-4c28-a4a5-7ea590da4ca3 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 482.8169999998063ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:11.438
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:14.083
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 76fcb8e3-d57c-4090-bc61-503d1e6f7e10 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 502.72750000003725ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:14.601
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 4601797c-9579-4346-980a-0c0d7b802551 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 471.7259000004269ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:16.718
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:17.287
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:17.292
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [58845d8c-634e-4f3c-a895-d02c63f20d24] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:17.297
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:17.830
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [1c65470b-6d2a-44c9-867a-a33fb359232c] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:17.835
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:18.582
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 1d815a3b-8181-408c-949c-31cc7f02fd9d at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 554.657600000035ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:19.081
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request ce9d5603-e52c-4631-9250-8df21f4f0ab0 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 446.09720000019297ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:20.695
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:21.355
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:21.361
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [97a9f8d6-6e75-4c99-8aa7-85961ecd9293] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:23.643
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:25.362
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 8e1e8228-3b99-4e19-acb0-64b5251a25be at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 485.6653999998234ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:27.489
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:28.408
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [0f5e6b2d-b241-4740-8080-b779bfb5d52e] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:28.413
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:28.822
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:29.616
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:29.622
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [eb55cf9c-0c0c-4c5c-b2b2-de8afed18ac6] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:39.938
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 8a9e302f-bdbc-49d0-aec4-5693233896df at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 554.3842000002041ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:42.048
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:42.620
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:42.628
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:42.632
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [f4123172-5500-4bc6-bd35-2bec86024fcf] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:43.167
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:43.176
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [38578ff6-2023-4b25-ab93-2b862ffc1038] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:43.939
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 6fdb0ea8-62f6-4df6-bee3-323a0b82ad0c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 471.1398999998346ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:44.465
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request aa6f0676-099f-431f-800f-28d7f5f83453 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 487.1575000002049ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:45.978
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 892bc9b9-ac2e-44c4-b35e-09d6e41d6a17 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 514.6538000004366ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:46.555
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request f22cca07-744b-4416-a41e-e77e053d0c83 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 535.1879000002518ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:51.257
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 66569661-dd39-44e8-9a44-d8726a8320cd at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 443.1022000000812ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:51.746
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 56ce787a-c21c-43c9-a987-0065043d827f at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 447.4714999999851ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:56.302
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:55:58.807
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 6ad9aeff-ab60-45aa-aa3d-27330b070351 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 534.1006999998353ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:00.938
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:01.455
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:01.463
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [c939c78b-f2d6-4c27-bc20-03758151e220] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:03.271
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:05.799
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:06.383
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [b0b3f1cf-2bdb-45a7-a415-b2fb57eaadb4] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:06.391
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:06.397
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:06.928
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [efc3d74a-5deb-4306-91ed-5bbfd37dab4d] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:06.936
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:20.330
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:20.980
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [1e2d6b8f-f8e5-44cb-80fe-d0f7108f2983] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:20.984
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:20.988
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:21.539
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:21.544
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [09ef07a6-ba58-4901-923c-6f2e47778813] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:23.544
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 4a4b0c5e-2b16-4a3d-ac8f-b39b63b5defb at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 492.9597000000067ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:23.669
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:24.261
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:24.265
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [4cc2f82d-9733-49bd-aa9e-fd01fb11320c] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:24.875
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 80869ccc-91de-4940-a786-8aad21433f56 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 526.4660000000149ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:27.033
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:27.600
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:27.606
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [36c8a5f1-136e-4d8c-a748-2b2f30ea05b1] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:27.613
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:28.195
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:28.199
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [d65c013b-ab46-4ee4-8ffa-1accc5cfc26a] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:29.349
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:30.068
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request a0eda5ee-3f56-4381-885f-0ced647b9a8a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 513.8607999999076ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:30.573
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request f08063ab-8c36-4074-8f10-cf0db6b89c0f at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 468.01640000008047ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:32.204
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:32.816
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [4ee18adc-df98-454c-92be-e96de4598ac5] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:32.821
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:32.825
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:33.377
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [38265905-f785-42c8-831e-aa9b2ceff452] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:33.384
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:33.388
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:33.919
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:33.926
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [4ee18adc-df98-454c-92be-e96de4598ac5] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:35.106
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:50.217
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 61b28259-75a7-48f9-b3b4-9403b057bd1a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 509.4517000000924ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:51.958
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 8c524198-9b0d-4bc4-b069-3d8f2aefffb3 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 537.3557999995537ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:56:56.416
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:01.988
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request d2c81eaa-d0b0-4407-b891-ad676393e659 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 449.2352000004612ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:02.891
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 3b745afe-172d-47e9-aa8f-688a6ef69d1c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 552.1805999996141ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:05.018
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:05.641
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [63bc2e05-b9ad-4cb5-b4cd-78c0185da72f] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:05.649
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:07.832
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:08.733
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [db2f0c51-f2e8-4852-967f-2b15675d0c05] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:08.740
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:08.747
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:09.325
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [a223bdc5-2361-4e2e-929f-c605fa50de5d] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:09.330
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:09.335
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:10.030
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [db2f0c51-f2e8-4852-967f-2b15675d0c05] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:10.037
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:13.248
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 9e7dd08f-45f6-47eb-8571-ddc456a66362 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 530.7941999998875ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:13.829
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 3e0df12f-e8a4-4a14-9d82-db2c15033936 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 488.25579999992624ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:15.256
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] Calling Match
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:15.612
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] No match found
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:18.349
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:18.947
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 06fa1700-07e1-4476-9e33-4979b91755e5 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 486.01139999972656ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:21.077
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:21.634
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:21.639
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [aee8742b-795b-4aad-a2ca-f590316b42a5] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:23.469
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:25.164
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:25.764
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:25.770
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [0d0ef5c4-ed4e-4ddd-a11e-ae6c95b37e81] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:25.776
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:26.438
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:57:26.442
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [3d871baf-a56d-49af-b1e9-430317ee3694] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:26.678
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request c52d9711-80e5-410a-b5f2-f450f93bd7a0 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 509.71180000016466ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:27.268
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request d7b6925a-61eb-409b-ab76-7eaede782bf4 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 516.5124999997206ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:27.842
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] Calling Match
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:28.178
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] No match found
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:29.396
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 5116f5b7-95da-46aa-bdb6-111abdc7b309 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 483.2711999998428ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:31.551
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:32.155
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [a71acc75-098c-4260-a491-d1ba2f6bf491] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:32.161
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:33.546
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:33.918
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:34.089
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:34.097
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [6e880da2-ac17-4fc2-ba82-8f4c7749facd] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:34.104
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:34.600
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:34.604
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [352d3a76-982d-46c8-ad5c-d6865e732dd1] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:37.868
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 40fa3b16-cd11-4886-9443-6809d7a7d817 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 529.8607000000775ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:39.082
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 76a393fc-4673-423b-af3d-f6ddb1148e12 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 502.2996999998577ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:39.575
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 4a25a42b-6f5c-4c6d-a8be-caad8e931d13 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 482.72280000010505ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:41.196
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:42.917
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:42.921
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [8b80f50f-3a94-446b-9962-bcb80e0ef64d] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:44.097
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:45.711
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:46.341
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:46.350
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:46.356
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [c1b55454-f022-4319-8ea2-f99c1fe8c72a] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:46.891
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 20:59:46.895
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [0359d91e-7a84-43b9-a581-e9c1ff6222c8] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:12.499
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 36bcffbb-564a-4678-b68f-faaf328ce5b5 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 513.87369999988ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:14.617
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:15.339
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:15.344
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [201d6bfd-2dd2-4186-adea-73ae25b7549e] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:15.348
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:15.853
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:15.858
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [847b1b7f-c245-472c-9e26-c9129b3734ff] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:15.862
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:16.573
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:16.576
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [201d6bfd-2dd2-4186-adea-73ae25b7549e] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:16.986
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:20.078
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:20.793
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:20.800
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:20.804
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [8eae1ae9-58d6-4ae4-bffd-6ba0a526e5cd] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:21.328
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:21.335
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [99c40166-2cb4-4510-bbeb-4e36ae16c5a7] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:24.109
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 1772e574-0eb3-44c1-b07a-687d02026174 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 505.372599999886ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:26.244
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:26.848
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:26.853
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [d625646b-fe57-4c05-b4dc-36007a70445f] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:26.857
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:27.380
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:27.388
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [1b85715a-7f54-4b72-84a5-6317fabc5cab] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:27.395
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:28.111
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:28.119
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [d625646b-fe57-4c05-b4dc-36007a70445f] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:28.608
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:40.512
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 3479811c-3a44-448b-a72f-a4454f10b941 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 543.7203999999911ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:41.201
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 797b01a1-bc87-4679-b438-1c5a88427a99 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 489.007200000342ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:45.720
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:51.831
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 0c1dad81-0d3e-46ba-9487-346b4c0f0df5 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 525.0289000002667ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:52.579
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 870b2389-81d0-49b8-824a-eb32234b0336 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 453.6864999998361ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:55.044
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] Calling Match
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:55.186
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] No match found
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:57.149
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:57.936
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:00:57.940
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [59ff917d-3238-40df-85b7-99f17aa3da01] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:02.093
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:03.171
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 6082dbc1-31fd-4fec-a739-89e147e378c5 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 591.6335999998264ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:03.251
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:03.858
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:03.862
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [9c8c6a58-af58-481b-ba80-7e061c745d8e] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:09.469
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:24.921
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request b2d5b9ce-e20b-408a-8442-37db95bec8d9 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 485.77889999980107ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:25.480
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request ad3a2dfc-32c7-4f9c-ac97-7604d8959135 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 484.58980000019073ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:27.964
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] Calling Match
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:28.092
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] No match found
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:29.168
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 668d3714-a382-42dd-9ed6-74508bad50f6 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 458.75190000003204ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:29.800
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 989473ad-1474-4cb0-9efa-c912d901f297 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 534.0227999999188ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:29.811
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] Calling Match
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:29.939
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] No match found
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:31.109
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request ba6b09f1-6df3-4000-a5b5-fe26ee6a617e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 530.095100000035ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:31.589
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] Calling Match
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:31.668
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request fef135ca-374a-4289-87e0-26bf1ab38e8b at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 472.66809999989346ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:31.717
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] No match found
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:32.995
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request acace7da-c274-4aea-957e-cf60d2aef73e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 475.2319000000134ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:33.598
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 3d887868-6cb6-4e35-b981-8dd7743d9b8a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 472.21640000026673ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:34.174
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 52ac7bcc-5baf-4fac-bfef-6b725aeb0391 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 480.6107000000775ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:36.983
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 83812db7-54df-4f3a-a7bc-674b69ba93af at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 465.95710000023246ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:37.043
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] Calling Match
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:37.180
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] No match found
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:38.248
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 41eeb350-e95a-4933-a87b-9ca89a2c6e63 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 481.6331000002101ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:38.720
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 7f96e214-713e-457e-945b-09993a508d9e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 460.28839999996126ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:39.249
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 292025bf-a539-49f4-ba8a-9b69b4bec6fb at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 463.18319999985397ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:39.735
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] Calling Match
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:39.863
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] No match found
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:40.347
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:41.369
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:41.376
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [d1fe5a95-e5d8-4b2b-8d0f-36f87d94a769] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:43.790
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:47.069
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 24979a92-32c1-4008-bf83-970cc2ae21ac at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 489.25840000016615ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:47.659
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request f0162180-115a-4f49-8b81-47503eb10aa6 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 498.7375000002794ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:47.808
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] Calling Match
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:47.939
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] No match found
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:49.204
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request bc5af693-0f9b-4119-ac3b-04bfd7eb50d7 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 447.1080999998376ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:49.627
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] Calling Match
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:49.771
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] No match found
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:49.798
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 9dbe3268-5620-44eb-ab23-fabc905eb34a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 503.2137000001967ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:50.574
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 8661c84d-87a1-4a85-8745-2c99311869b6 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 448.59860000014305ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:51.089
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] Calling Match
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:51.174
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 748db029-1959-47e9-b60b-c5a57b2802a5 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 501.47979999985546ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:51.219
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] No match found
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:52.113
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request feb4a236-d9fd-4060-b944-cc2dd1036608 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 478.2923999996856ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:52.627
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] Calling Match
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:52.707
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request d3a00636-8040-4baf-98fa-a5e7518a43b0 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 496.90460000000894ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:52.754
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] No match found
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:53.969
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 3a7433ab-dc3e-4235-89b0-9b42acfc7562 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 483.6022000000812ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:56.088
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:56.806
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [a7268964-454d-4424-a2a8-9898e743ba55] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:56.814
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:58.491
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:59.177
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 66f86e3d-8418-4b24-9802-97d460876c78 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 466.15320000005886ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:59.830
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request b1e59156-d5f6-4c0e-a3bc-4523640b6e06 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 520.6455999999307ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:59.842
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] Calling Match
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:01:59.977
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] No match found
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:00.802
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request cd631755-2652-452e-a0bf-cf34384c0fba at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 472.4098999998532ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:01.206
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] Calling Match
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:01.341
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] No match found
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:01.371
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 779b953e-5f57-4fcf-8604-ece86f98ffb9 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 488.9598000003025ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:02.163
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 114d314e-c801-41f7-8325-ea7757cfd7e4 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 473.64259999990463ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:02.562
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] Calling Match
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:02.693
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] No match found
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:02.746
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 812e119f-204b-457d-9c76-b5d81b8c0259 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 495.119399999734ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:03.541
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request cbaa5ac8-a974-487f-aee0-74f208a89f06 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 544.5513999997638ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:03.924
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] Calling Match
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:04.061
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] No match found
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:04.070
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 46a4ca07-e79f-4e3e-a2bf-acc55659f57f at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 466.4817999997176ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:05.045
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 583dce40-7069-4dac-b2ca-6d73ab54a663 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 481.9936000001617ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:05.560
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] Calling Match
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:05.657
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 9855693b-2634-4bc3-91c8-679297a1da44 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 476.8075999999419ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:05.694
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] No match found
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:07.220
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 057b328d-a72f-46b7-8442-629eb38bc52b at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 484.95779999997467ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:09.366
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:09.993
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [b1a03fea-5b5c-4812-95e0-a7b1e7d05fa5] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:09.997
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:10.001
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:10.521
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:10.528
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [9cc68123-b28d-4fe3-bbfd-67945dc14b9c] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:11.740
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:20.189
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request a75e5b16-9aef-46b0-af59-0727eddcb34a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 493.0421000001952ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:20.766
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request da7746b4-ce29-477b-ab9c-8fd89e5ac2eb at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 522.4333000001498ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:21.295
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request c9143ef4-6c2d-4246-93c5-4ff11c0eccdd at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 463.55549999978393ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:22.098
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 90c9723a-8e08-4a89-a58e-d33ef15e65d3 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 509.8958000000566ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:22.258
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:22.938
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:22.944
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [da570829-6f47-48b1-8157-b5013c28c009] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:22.950
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:23.476
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [5cb9d23a-ebc9-4e5b-807e-4ec4a6e15f2f] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:23.483
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:25.145
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 59eb86c5-cb4f-434f-8563-a08666c3c522 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 530.4523000000045ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:25.674
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request c8061e44-3fbe-4d3e-9836-83d0eafcbce0 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 493.8932000002824ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:26.595
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] Calling Match
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:26.722
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[code-referencing] No match found
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:29.971
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:30.574
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:30.581
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [61ff213b-ced3-491b-b50a-30cf25228b0a] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:30.586
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:31.151
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:31.155
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [4e2ed702-087a-423f-822a-253e12d20c09] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:31.160
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:31.822
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:31.829
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [61ff213b-ced3-491b-b50a-30cf25228b0a] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:34.877
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:42.982
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:43.644
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:43.649
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:43.653
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [87d20efe-c23b-4ff5-ac60-81234a8f540b] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:44.239
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [4c2c7944-886d-4cf3-af14-02154fd233cc] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:44.243
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:44.248
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:44.924
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [87d20efe-c23b-4ff5-ac60-81234a8f540b] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:44.929
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:47.716
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:47.868
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:48.488
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:48.494
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [0c30337a-e939-4161-afde-85e95410ff6a] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:51.093
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:51.794
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [460ddc03-f3e1-41c4-b188-e0a4c8ae4da1] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:51.800
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:51.805
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:52.337
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:02:52.342
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [a568d1c3-b661-443e-985b-959c9d58ac4b] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:03:30.496
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request 35e5cd63-ad78-4906-9109-bc732043c247 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 507.0916999997571ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:03:31.016
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[fetchCompletions] Request b20d01f9-ac45-43af-972e-794ac2fccc54 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 487.08920000027865ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:03:32.620
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:03:33.171
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:03:33.178
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [8f2b148a-37f5-4e72-b909-ad73389629af] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:03:33.269
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:03:33.912
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [b446d521-356d-41bd-93c7-9e8fde46fea8] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:03:33.917
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:03:33.924
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:03:34.511
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[message 0 returned. finish reason: [stop]] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:03:34.516
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[request done: requestId: [dcd8f546-5c11-4612-b48c-585ecff6e2d4] model deployment ID: []] 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-11-05 21:03:35.532
+!MESSAGE [LS:GitHub Copilot Language Server][Info]	[AuthManager] resolveSession: persisted store resolved a session

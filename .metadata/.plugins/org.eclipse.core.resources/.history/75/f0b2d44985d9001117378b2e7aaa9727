@@ -1,0 +1,9 @@
+package com.krakedev;
+
+public class Plato {
+	//nombre, de tipo String
+	//● tipo, de tipo String (por ejemplo: entrada, plato fuerte, postre)
+	//● precio, de tipo punto flotante
+	//● disponible, de tipo boolean
+
+}

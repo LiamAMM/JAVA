@@ -1,0 +1,53 @@
+package com.krakedev;
+
+public class TestPlato {
+
+	public static void main(String[] args) {
+		//Crear 3 variables de tipo Plato, llamadas platoA, platoB, platoC
+		//● Instanciar 3 objetos y referenciar cada uno con una de las variables del paso anterior
+		//● Modificar los atributos de cada plato con ejemplos reales de un restaurante
+		//● Mostrar en pantalla los valores de los atributos de los 3 objetos
+		
+		Plato platoA;
+		Plato platoB;
+		Plato platoC;
+		
+		platoA = new Plato();
+		platoB = new Plato();
+		platoC = new Plato();
+		
+		platoA.nombre = "Ensalada César";
+		platoA.tipo = "Entrada";
+		platoA.precio = 5.99;
+		platoA.disponible = true;
+		
+		platoB.nombre = "Pollo a la parrilla";
+		platoB.tipo = "Plato fuerte";
+		platoB.precio = 12.99;
+		platoB.disponible = true;
+		
+		platoC.nombre = "Tarta de chocolate";
+		platoC.tipo = "Postre";
+		platoC.precio = 6.49;
+		platoC.disponible = false;
+		
+		System.out.println("=======================================Plato A=======================================");
+		System.out.println("Nombre: " + platoA.nombre);
+		System.out.println("Tipo: " + platoA.tipo);
+		System.out.println("Precio: " + platoA.precio);
+		System.out.println("Disponible: " + platoA.disponible);
+		
+		System.out.println("=======================================Plato B=======================================");
+		System.out.println("Nombre: " + platoB.nombre);
+		System.out.println("Tipo: " + platoB.tipo);
+		System.out.println("Precio: " + platoB.precio);
+		System.out.println("Disponible: " + platoB.disponible);
+		
+		System.out.println("=======================================Plato C=======================================");
+		System.out.println("Nombre: " + platoC.nombre);
+		System.out.println("Tipo: " + platoC.tipo);
+		System.out.println("Precio: " + platoC.precio);
+		System.out.println("Disponible: " + platoC.disponible);
+	}
+
+}
