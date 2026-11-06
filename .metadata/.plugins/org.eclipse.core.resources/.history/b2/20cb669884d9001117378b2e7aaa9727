@@ -1,0 +1,49 @@
+package com.krakedev;
+
+public class TestRestaurante {
+
+	public static void main(String[] args) {
+		//● Instanciar dos restaurantes y referenciarlos con las variables rest1 y rest2
+		//● Modificar los valores de los atributos de cada restaurante
+		//● Mostrar los valores de los atributos de los dos restaurantes en consola	
+		Restaurante rest1;
+		
+		rest1 = new Restaurante();
+		
+		System.out.println("=======================Restaurante 1 : Creado=======================");
+		
+		System.out.println("Nombre: " + rest1.nombre);
+		System.out.println("Direccion: " + rest1.direccion);
+		System.out.println("Calificacion: " + rest1.calificacion);
+		
+		System.out.println("=======================Restaurante 1 : valores asignados=======================");
+		
+		rest1.nombre = "El Buen Sabor";
+		rest1.direccion = "Calle 123";
+		rest1.calificacion = 4.5;
+		
+		System.out.println("Nombre: " + rest1.nombre);
+		System.out.println("Direccion: " + rest1.direccion);
+		System.out.println("Calificacion: " + rest1.calificacion);
+		
+		System.out.println("=======================Restaurante 2 : Creado=======================");
+		Restaurante rest2 = new Restaurante();
+		
+		System.out.println("Nombre: " + rest2.nombre);
+		System.out.println("Direccion: " + rest2.direccion);
+		System.out.println("Calificacion: " + rest2.calificacion);
+		
+		System.out.println("=======================Restaurante 2 : valores asignados=======================");
+		
+		rest2.nombre = "La Buena Mesa";
+		rest2.direccion = "Avenida 456";
+		rest2.calificacion = 4.8;
+		
+		System.out.println("Nombre: " + rest2.nombre);
+		System.out.println("Direccion: " + rest2.direccion);
+		System.out.println("Calificacion: " + rest2.calificacion);
+		
+
+	}
+
+}

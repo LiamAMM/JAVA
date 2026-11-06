@@ -1,0 +1,13 @@
+package com.krakedev;
+
+public class TestRestaurante {
+
+	public static void main(String[] args) {
+		//● Instanciar dos restaurantes y referenciarlos con las variables rest1 y rest2
+		//● Modificar los valores de los atributos de cada restaurante
+		//● Mostrar los valores de los atributos de los dos restaurantes en consola	
+		
+
+	}
+
+}
