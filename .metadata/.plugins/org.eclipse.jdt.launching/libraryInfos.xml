@@ -29,6 +29,24 @@
             <entry path="null"/>
         </endorsedDirs>
     </libraryInfo>
+    <libraryInfo home="C:\Program Files\Java\jre1.8.0_511" version="1.8.0_511">
+        <bootpath>
+            <entry path="C:\Program Files\Java\jre1.8.0_511\lib\resources.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_511\lib\rt.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_511\lib\jsse.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_511\lib\jce.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_511\lib\charsets.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_511\lib\jfr.jar"/>
+            <entry path="C:\Program Files\Java\jre1.8.0_511\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="C:\Program Files\Java\jre1.8.0_511\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="C:\Program Files\Java\jre1.8.0_511\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
     <libraryInfo home="C:\Program Files\Java\jdk-25.0.5.0.3" version="25.0.5.0.3"/>
     <libraryInfo home="C:\Users\USER\Documents\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_25.0.4.v20260826-0822" version="25.0.4.1">
         <bootpath>
