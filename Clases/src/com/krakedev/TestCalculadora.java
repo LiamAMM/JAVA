@@ -17,7 +17,10 @@ public class TestCalculadora {
 		r3 = c1.multiplicar(10, 5);
 		System.out.println("El resultado de la multiplicación es: " + r3);
 		
-		
+		double r4;
+		r4 = c1.dividir(10, 2);
+		System.out.println("El resultado de la división es: " + r4);
+
 	}
 
 }
