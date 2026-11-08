@@ -1,0 +1,40 @@
+package com.krakedev;
+
+import com.sun.org.apache.xml.internal.security.c14n.helper.C14nHelper;
+
+public class TestCalculadora {
+
+	public static void main(String[] args) {
+		Calculadora c1 = new Calculadora();
+		
+		double r1;
+		r1 = c1.sumar(4, 2);
+		System.out.println("El resultado de la suma es: " + r1);
+		
+		int r2;
+		r2 = c1.restar(4, 2);
+		System.out.println("El resultado de la resta es: " + r2);
+		
+		double r3;
+		r3 = c1.multiplicar(10, 5);
+		System.out.println("El resultado de la multiplicación es: " + r3);
+		
+		double r4;
+		r4 = c1.dividir(10, 2);
+		System.out.println("El resultado de la división es: " + r4);
+		
+		double r5;
+		r5 = c1.promediar(10, 20, 30);
+		System.out.println("El resultado del promedio es: " + r5);
+		
+	}
+	
+	public static void main(String[] args) {
+		
+		Mensajeria c1 = new Mensajeria();
+		
+		c1.mostrarResultado();
+
+	}
+
+}

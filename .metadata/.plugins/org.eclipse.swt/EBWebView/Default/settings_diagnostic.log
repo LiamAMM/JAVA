@@ -715,3 +715,13 @@
 {"logTime": "1108/151539", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
 {"logTime": "1108/151549", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
 {"logTime": "1108/151549", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1108/153430", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1108/153440", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1108/154256", "level": "INFO", "message": "Preference changed: name=language_dwell_time_average, new_value=[object], source=unknown"}
+{"logTime": "1108/154256", "level": "INFO", "message": "Preference changed: name=language_usage_count, new_value=[object], source=unknown"}
+{"logTime": "1108/154256", "level": "INFO", "message": "Preference changed: name=language_model_counters, new_value=[object], source=unknown"}
+{"logTime": "1108/154306", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1108/160937", "level": "INFO", "message": "Preference changed: name=language_dwell_time_average, new_value=[object], source=unknown"}
+{"logTime": "1108/160937", "level": "INFO", "message": "Preference changed: name=language_usage_count, new_value=[object], source=unknown"}
+{"logTime": "1108/160937", "level": "INFO", "message": "Preference changed: name=language_model_counters, new_value=[object], source=unknown"}
+{"logTime": "1108/160947", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
