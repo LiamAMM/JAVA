@@ -1,0 +1,23 @@
+package com.krakedev;
+
+public class Mensajeria {
+	
+	private String mensaje;
+
+	public String getMensaje() {
+		return mensaje;
+	}
+
+	public void setMensaje(String mensaje) {
+		this.mensaje = mensaje;
+	}
+
+	public void saludar() {
+		System.out.println("¡Hola!");
+	}
+	
+	public void saludarPersona(String nombre, String apodo) {
+		System.out.println("Hola: " + nombre + " Tu apodo es: " + apodo);
+	}
+	
+}

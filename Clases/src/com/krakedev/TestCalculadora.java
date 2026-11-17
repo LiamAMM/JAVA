@@ -26,8 +26,6 @@ public class TestCalculadora {
 		System.out.println("El resultado del promedio es: " + r5);
 		
 		c1.mostrarResultado();
-		
-		
 	}
 
 }

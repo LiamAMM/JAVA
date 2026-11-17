@@ -9,37 +9,36 @@ public class TestRestaurante {
 		
 		System.out.println("=======================Restaurante 1 : Creado=======================");
 		
-		System.out.println("Nombre: " + rest1.nombre);
-		System.out.println("Direccion: " + rest1.direccion);
-		System.out.println("Calificacion: " + rest1.calificacion);
+		System.out.println("Nombre: " + rest1.getNombre());
+		System.out.println("Direccion: " + rest1.getDireccion());
+		System.out.println("Calificacion: " + rest1.getCalificacion());
 		
 		System.out.println("=======================Restaurante 1 : valores asignados=======================");
 		
-		rest1.nombre = "Colorado";
-		rest1.direccion = "Calle 123";
-		rest1.calificacion = 4.5;
+		rest1.setNombre("Colorado");
+		rest1.setDireccion("Calle 123");
+		rest1.setCalificacion(4.5);
 		
-		System.out.println("Nombre: " + rest1.nombre);
-		System.out.println("Direccion: " + rest1.direccion);
-		System.out.println("Calificacion: " + rest1.calificacion);
+		System.out.println("Nombre: " + rest1.getNombre());
+		System.out.println("Direccion: " + rest1.getDireccion());
+		System.out.println("Calificacion: " + rest1.getCalificacion());
 		
 		System.out.println("=======================Restaurante 2 : Creado=======================");
 		Restaurante rest2 = new Restaurante();
 		
-		System.out.println("Nombre: " + rest2.nombre);
-		System.out.println("Direccion: " + rest2.direccion);
-		System.out.println("Calificacion: " + rest2.calificacion);
+		System.out.println("Nombre: " + rest2.getNombre());
+		System.out.println("Direccion: " + rest2.getDireccion());
+		System.out.println("Calificacion: " + rest2.getCalificacion());
 		
 		System.out.println("=======================Restaurante 2 : valores asignados=======================");
 		
-		rest2.nombre = "KFC";
-		rest2.direccion = "Santa Maria";
-		rest2.calificacion = 4.8;
+		rest2.setNombre("KFC");
+		rest2.setDireccion("Santa Maria");
+		rest2.setCalificacion(4.8);
 		
-		System.out.println("Nombre: " + rest2.nombre);
-		System.out.println("Direccion: " + rest2.direccion);
-		System.out.println("Calificacion: " + rest2.calificacion);
-		
+		System.out.println("Nombre: " + rest2.getNombre());
+		System.out.println("Direccion: " + rest2.getDireccion());
+		System.out.println("Calificacion: " + rest2.getCalificacion());
 
 	}
 
