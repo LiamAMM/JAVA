@@ -41,5 +41,10 @@ public class Calculadora {
 	public void mostrarResultado() {
 		System.out.println("Ahorita no joven, Sali al almuezo. Regreso en 15 minutos");
 	}
+	
+	public double calcularDescuento(double precio, double descuento) {
+		resultado = precio - (precio * descuento / 100);
+		return resultado;
+	}
 
 }

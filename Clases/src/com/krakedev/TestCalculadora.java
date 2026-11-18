@@ -26,6 +26,12 @@ public class TestCalculadora {
 		System.out.println("El resultado del promedio es: " + r5);
 		
 		c1.mostrarResultado();
+		
+		double r6;
+		r6 = c1.calcularDescuento(100, 50);
+		System.out.println("El descuento es: " + r6);
+		
+		c1.mostrarResultado();
 	}
 
 }

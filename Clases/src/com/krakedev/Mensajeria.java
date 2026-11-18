@@ -5,6 +5,11 @@ public class Mensajeria {
 	private String nombre;
 	private String apodo;
 
+	public Mensajeria(String nombre, String apodo) {
+		this.nombre = nombre;
+		this.apodo = apodo;
+	}
+
 	public String getNombre() {
 		return nombre;
 	}
